@@ -31,10 +31,6 @@
 # source for the BPF datapath
 #bpfClockProbe: true
 
-# blacklistConflictingRoutes instructs the cilium-agent whether to blacklist
-# IP allocations conflicting with local non-cilium routes.
-#blacklistConflictingRoutes: true
-
 # sessionAffinity enable support for service sessionAffinity
 #sessionAffinity: true
 
